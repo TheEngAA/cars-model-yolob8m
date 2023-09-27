@@ -1,5 +1,5 @@
 # cars-model-yolob8m
- the content file jus show you the dataset, all traind models and there results 
+the content file jus show you the dataset, all traind models and there results 
 ## but if you want to try the model (the best model) you just need to use "best.pt"
 
 ## folders structures
